@@ -24,4 +24,6 @@ const uploadOnCloudinary = async (localFilePath) => {
   }
 };
 
+const handleDeleteFiles = () => {};
+
 export { uploadOnCloudinary };
